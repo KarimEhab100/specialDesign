@@ -163,7 +163,7 @@ body{
 /*##################    start landing page     ####################*/
 .landig-page{
     min-height: 100vh;
-    background-image: url('images/photo-1.jpg');
+    background-image: url('../images/photo-1.jpg');
     background-size: cover;
     position: relative;
     transition: .3s;
@@ -763,7 +763,7 @@ text-align: center;
     /*##################    start contact-us us page     ####################*/ 
     .contact-us  {
         min-height: 600px;
-        background-image: url('images/5153829.jpg');
+        background-image: url('../images/5153829.jpg');
         background-size: cover;
         padding-top:80px ;
         padding-bottom: 80px;
